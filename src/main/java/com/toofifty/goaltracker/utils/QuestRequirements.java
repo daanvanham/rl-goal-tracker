@@ -1181,20 +1181,6 @@ public final class QuestRequirements
         );
 
         REQUIREMENT_MAP.put(
-                Quest.AN_EXISTENTIAL_CRISIS,
-                Arrays.asList(
-                        QuestTask.builder().quest(Quest.THE_FINAL_DAWN).build()
-                )
-        );
-
-        REQUIREMENT_MAP.put(
-                Quest.IMPENDING_CHAOS,
-                Arrays.asList(
-                        QuestTask.builder().quest(Quest.THE_FINAL_DAWN).build()
-                )
-        );
-
-        REQUIREMENT_MAP.put(
                 Quest.VALE_TOTEMS,
                 Arrays.asList(
                         QuestTask.builder().quest(Quest.THE_FINAL_DAWN).build()
